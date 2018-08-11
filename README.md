@@ -1,5 +1,5 @@
 # ResetUpdateMessage
-<b>Microsoft Office 2016 Reset Update Message Tool</b>
+<b>Microsoft Office 365/2019/2016 Reset Update Message Tool</b>
 
 
 Purpose: Resets the 'Office Update' message bar that appears when the installed build is older than 90 days<br/>
