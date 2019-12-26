@@ -18,7 +18,6 @@ TOOL_VERSION="1.1"
 WORD2016PATH="/Applications/Microsoft Word.app"
 EXCEL2016PATH="/Applications/Microsoft Excel.app"
 POWERPOINT2016PATH="/Applications/Microsoft PowerPoint.app"
-SCRIPTPATH=$( cd $(dirname $0) ; pwd -P )
 
 # Shows tool usage and parameters
 function ShowUsage() {
